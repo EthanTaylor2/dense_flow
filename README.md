@@ -1,7 +1,7 @@
 # Optical Flow
 
 This is a sample code for extrating dense flow field given a video.  
-This code is copyed from [wanglimin](https://github.com/wanglimin/dense_flow)  
+This code is forked from [wanglimin](https://github.com/wanglimin/dense_flow)  
 
 ----
 ## How to build it
